@@ -1,3 +1,8 @@
+
+/**
+ * LELEKIS
+ *
+ */
 public class ArgsParser
 {
     private int numberOfPassedArgs;
@@ -8,7 +13,6 @@ public class ArgsParser
     private String[] foundOptions;
     private String[] foundArguments;
     private String[][] matchedArguments; //two dimensional table with option in rows and their matched arguments in columns
-
 
 
 
