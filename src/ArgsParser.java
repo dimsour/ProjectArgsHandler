@@ -14,8 +14,8 @@ public class ArgsParser
 
         detectOptions();
         detectArguments();
-        System.out.println("options are:" + options[0] + " " + options[1]);
-        System.out.println("arguments are:" + foundArguments[0] + " " + foundArguments[1]);
+       // System.out.println("options are:" + options[0] + " " + options[1]);
+        //System.out.println("arguments are:" + foundArguments[0] + " " + foundArguments[1]);
     }
     public void argsPrinter()
     {
@@ -46,8 +46,6 @@ public class ArgsParser
     }
     public static void main(String[] args)
     {
-        System.out.println("dimitris trelakias");
-        System.out.println("igor trelakias");
-        System.out.println("new branch test");
+
     }
 }
