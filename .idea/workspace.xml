@@ -9,11 +9,14 @@
     <list default="true" id="54c736d8-5721-43ae-b3bd-71a28147a3b5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/ProjectArgsHandler_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ProjectArgsHandler_jar.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_3_2018_8_41___Default_.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ProjectArgsHandler.iml" afterPath="$PROJECT_DIR$/ProjectArgsHandler.iml" />
       <change beforePath="$PROJECT_DIR$/src/ArgsParser.java" afterPath="$PROJECT_DIR$/src/ArgsParser.java" />
       <change beforePath="$PROJECT_DIR$/src/OptionParser.java" afterPath="$PROJECT_DIR$/src/OptionParser.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,22 +29,15 @@
       <file leaf-file-name="ArgsParser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
-                <element signature="docComment;class#ArgsParser#0" expanded="false" />
-                <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-                <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+                <element signature="e#3060#3061#0" expanded="true" />
+                <element signature="e#3092#3093#0" expanded="true" />
+                <element signature="e#3253#3254#0" expanded="true" />
+                <element signature="e#3294#3295#0" expanded="true" />
+                <element signature="e#4465#4466#0" expanded="true" />
+                <element signature="e#4500#4501#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,30 +46,20 @@
       <file leaf-file-name="OptionParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OptionParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="121" column="97" lean-forward="false" selection-start-line="121" selection-start-column="97" selection-end-line="121" selection-end-column="97" />
-              <folding>
-                <element signature="method#addOptionShort#0;class#OptionParser#0" expanded="false" />
-                <element signature="method#addOptionLong#0;class#OptionParser#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="1724">
+              <caret line="128" column="20" lean-forward="false" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="IgorBranchLocal" />
+        <entry key="$PROJECT_DIR$" value="IgorBranch" />
       </map>
     </option>
   </component>
@@ -97,10 +83,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
-    <option name="height" value="975" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -117,26 +102,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ProjectArgsHandler1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectArgsHandler1" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectArgsHandler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectArgsHandler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ProjectArgsHandler1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectArgsHandler1" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectArgsHandler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectArgsHandler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectArgsHandler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +135,120 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ArgsTester/lib" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/artifacts/ProjectArgsHandler_jar.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ArgsParser.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/OptionParser.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -271,6 +373,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522238607685</updated>
       <workItem from="1522238612795" duration="2564000" />
+      <workItem from="1522259486918" duration="7863000" />
     </task>
     <task id="LOCAL-00001" summary="first igor commit">
       <created>1522238853797</created>
@@ -286,103 +389,51 @@
       <option name="project" value="LOCAL" />
       <updated>1522240738014</updated>
     </task>
-    <task id="LOCAL-00003" summary="test">
-      <created>1522241457500</created>
+    <task id="LOCAL-00003" summary="Implement of methods to handle parsed args">
+      <created>1522258514160</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1522241457500</updated>
+      <updated>1522258514160</updated>
     </task>
-    <task id="LOCAL-00004" summary="test">
-      <created>1522241563195</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1522241563195</updated>
-    </task>
-    <task id="LOCAL-00005" summary="test">
-      <created>1522241783230</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1522241783230</updated>
-    </task>
-    <task id="LOCAL-00006" summary="option class">
-      <created>1522258644713</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1522258644713</updated>
-    </task>
-    <task id="LOCAL-00007" summary="option class">
-      <created>1522258961446</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1522258961446</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19308000" />
+    <option name="totallyTimeSpent" value="21921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18729097" sideWeight="0.50692964" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18729097" sideWeight="0.49307036" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21801706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.495116" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.497558" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.502442" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,214 +445,44 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first igor commit" />
     <MESSAGE value="test" />
-    <MESSAGE value="option class" />
-    <option name="LAST_COMMIT_MESSAGE" value="option class" />
+    <MESSAGE value="Implement of methods to handle parsed args" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement of methods to handle parsed args" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="4" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
-    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
-    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
-          <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
-    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
-    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
-          <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
-    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
-          <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
     <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -614,32 +495,46 @@
         <state relative-caret-position="457">
           <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
           <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -652,32 +547,46 @@
         <state relative-caret-position="457">
           <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -690,32 +599,46 @@
         <state relative-caret-position="457">
           <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
           <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -728,32 +651,46 @@
         <state relative-caret-position="457">
           <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -761,44 +698,286 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3060">
+        <state relative-caret-position="378">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        <state relative-caret-position="457">
+          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
           <folding>
-            <element signature="docComment;class#ArgsParser#0" expanded="false" />
-            <element signature="method#ArgsParser#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#argsPrinter#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectOptions#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#detectArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#matchOptsWithArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#main#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getMaxFromIntTable#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getNumberOfAnOptionArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#findPositionOfAnOption#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getTableOfParsedOptionsWithMatchedArgs#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#getOptionMatchedArguments#0;class#ArgsParser#0" expanded="false" />
-            <element signature="method#isParsed#0;class#ArgsParser#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/projectTheory/ArgsParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522113075949" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1522113075949" expanded="true" signature="290:671" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="703:823" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="858:1164" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1201:1522" ph="{...}" />
+            <marker date="1522113075949" expanded="true" signature="1567:1574" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectArgsHandler.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArgsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3294#3295#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+            <element signature="e#4500#4501#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OptionParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="121" column="97" lean-forward="false" selection-start-line="121" selection-start-column="97" selection-end-line="121" selection-end-column="97" />
-          <folding>
-            <element signature="method#addOptionShort#0;class#OptionParser#0" expanded="false" />
-            <element signature="method#addOptionLong#0;class#OptionParser#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1724">
+          <caret line="128" column="20" lean-forward="false" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +1023,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
